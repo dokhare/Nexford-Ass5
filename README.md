@@ -61,12 +61,12 @@ project/
 * The first script shows the most essential variables driving variance in cancer patient data and should be prioritised in reports to donors. 
 It also outputs a variance plot that shows how many components are needed to retain ~90% of the information.
 <img width="465" alt="fig1" src="https://github.com/user-attachments/assets/14ad114c-222a-48aa-bc78-19f68e0f80ce" />
+<img width="500" alt="fig1b" src="fig1.png" />
 
 ![fig1b](https://github.com/user-attachments/assets/92c011d4-1700-4eb6-95fa-2fbfb811804d)
 
 * The second script outputs a 2D scatter plot, clearly separating malignant and benign cases using the top 2 PCA components
-![fig2](https://github.com/user-attachments/assets/a0403ff1-017a-4189-8453-a2a23d6b18ca)
-
+  <img width="500" alt="fig1" src="fig2.png" />
 * Identified the top contributing variables for donor insights
 
 ---
